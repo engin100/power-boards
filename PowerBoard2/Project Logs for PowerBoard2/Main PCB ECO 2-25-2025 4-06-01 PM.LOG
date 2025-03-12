@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=NetJ1_2 Pin=J1-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=RBF1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=RBF1-2
+Change Component Comment : Designator=D2 Old Comment=+BAT New Comment=LED1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=RBF1-0
+Added Pin To Net: NetName=NetD1_1 Pin=RBF1-1

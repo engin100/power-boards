@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=RBF1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=RBF1-2
+Change Component Comment : Designator=D5 Old Comment=+5V New Comment=LED1
+Added Pin To Net: NetName=NetJ1_2 Pin=RBF1-0
+Added Pin To Net: NetName=NetD1_1 Pin=RBF1-1
